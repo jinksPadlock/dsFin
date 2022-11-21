@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/dsFin.iml" filepath="$PROJECT_DIR$/.idea/dsFin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DataSpellHelloWorld/.idea/dsProject.iml" filepath="$PROJECT_DIR$/../DataSpellHelloWorld/.idea/dsProject.iml" />
+      <module fileurl="file://$APPLICATION_CONFIG_DIR$/projects/workspace/.idea/workspace.iml" filepath="$APPLICATION_CONFIG_DIR$/projects/workspace/.idea/workspace.iml" />
     </modules>
   </component>
 </project>
